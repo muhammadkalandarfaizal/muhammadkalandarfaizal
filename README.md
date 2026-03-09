@@ -26,5 +26,6 @@
 
 ---
 
-### 📫 Connect With Me
+## 📫 Contact Me
+- Email: yourmail@gmail.com
 - GitHub: https://github.com/muhammadkalandarfaizal
